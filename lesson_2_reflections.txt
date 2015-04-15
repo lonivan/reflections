@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	After that we can use all of commands that we are using here
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	I think I undestand but I am not sure
